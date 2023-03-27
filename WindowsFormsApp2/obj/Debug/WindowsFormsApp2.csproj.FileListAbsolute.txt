@@ -1,0 +1,11 @@
+C:\Users\Варвара\Desktop\Учеба Пахальчук\6 семестр\имитационное\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Варвара\Desktop\Учеба Пахальчук\6 семестр\имитационное\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Варвара\Desktop\Учеба Пахальчук\6 семестр\имитационное\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Варвара\Desktop\Учеба Пахальчук\6 семестр\имитационное\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Варвара\Desktop\Учеба Пахальчук\6 семестр\имитационное\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Варвара\Desktop\Учеба Пахальчук\6 семестр\имитационное\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Варвара\Desktop\Учеба Пахальчук\6 семестр\имитационное\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Варвара\Desktop\Учеба Пахальчук\6 семестр\имитационное\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Варвара\Desktop\Учеба Пахальчук\6 семестр\имитационное\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Варвара\Desktop\Учеба Пахальчук\6 семестр\имитационное\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Варвара\Desktop\Учеба Пахальчук\6 семестр\имитационное\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
